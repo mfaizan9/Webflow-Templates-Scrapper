@@ -1,5 +1,17 @@
 # Webflow-Templates-Scrapper
-This program scrapes the Templates Category wise. There are total 37 categories of Templates for now. It scrapes (i) Title of Template (ii) Main Tag (iii) Secondary Tags (iv) Price (v) Excerpt (vi) URL (vii) Preview in Browser URL (viii) Preview in Design URL (ix) Thumbnails URLs (x) Features and (xi) Overview
+This program scrapes the Templates Category wise. There are total 37 categories of Templates for now. It scrapes the following 
+
+1) Title of Template 
+2) Main Tag
+3) Secondary Tags
+4) Price
+5) Excerpt
+6) URL
+7) Preview in Browser URL
+8) Preview in Design URL
+9) Thumbnails URLs
+10) Features
+11) Overview
 
 
 
