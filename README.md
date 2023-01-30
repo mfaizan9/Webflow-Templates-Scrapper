@@ -58,7 +58,6 @@
 ## Chapter 2: Visual Search System
 
 [1] Visual search at pinterest. https://arxiv.org/pdf/1505.07647.pdf.
-
 [2] Visual embeddings for search at Pinterest. https://medium.com/pinterest-engineering/unifying-visual-embeddings-for-visual-search-at-pinterest-74ea7ea103fo.
 [3] Representation learning. https://en.wikipedia.org/wiki/Feature_learning.
 [4] ResNet paper. https://arxiv.org/pdf/1512.03385.pdf.
